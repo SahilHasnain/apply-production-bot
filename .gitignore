@@ -1,0 +1,5 @@
+node_modules/
+apply-results-*.jsonl
+apply-*.png
+keepalive-*.jsonl
+config.bat

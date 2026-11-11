@@ -1,0 +1,17 @@
+{
+  "name": "apply-production-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Automate filling Google Play Console 'Apply for production' answers for multiple apps",
+  "main": "apply.js",
+  "scripts": {
+    "start": "node init && node apply.js",
+    "seed": "node apply.js seed",
+    "status": "node apply.js status",
+    "fill": "node apply.js fill"
+  },
+  "dependencies": {
+    "playwright-core": "^1.49.0"
+  }
+}

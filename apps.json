@@ -1,0 +1,178 @@
+{
+  "profileDir": "~/.nearbook-play-profiles",
+  "appListUrl": "https://play.google.com/console/u/0/developers/8815803363466457497/app-list",
+  "apps": [
+    {
+      "package": "com.makkiyyah",
+      "appName": "Addawlatul Makkiyyah",
+      "track": "closed",
+      "answers": {
+        "How did you recruit users for your closed test?": "Recruited Urdu and English readers from friends, family, and local Islamic-study WhatsApp groups. Invited them to read both editions, search sections, adjust text size, and report navigation, translation, or reading-progress issues.",
+        "Describe the engagement you received from testers during your closed test": "Testers read sections in the Roman Urdu and English editions, used search and next/previous navigation, changed text size, and reopened the app to check that their place was saved. Feedback came through WhatsApp and direct messages.",
+        "Provide a summary of the feedback that you received from testers. Include how you collected the feedback": "Collected feedback through WhatsApp and direct messages. Readers appreciated the clean two-edition library, resume reading, and adjustable text. They asked for clearer section labels, smoother search, better empty states, and reliable progress after restarting.",
+        "Who is the intended audience of your app?": "Urdu and English-speaking readers of Imam Ahmad Raza Khan's writings, including students, families, and Islamic-study groups who want a calm, ad-free book reader without creating an account.",
+        "Describe how your app provides value to users": "Bundles Addawlatul Makkiyyah in Roman Urdu and English, with a searchable contents list, adjustable text size, section navigation, and automatic resume. Reading progress stays on the device, and no account or personal data is required.",
+        "What changes did you make to your app based on what you learned during your closed test?": "Improved section labels and search results, added clearer loading and empty states, refined text-size controls and next/previous navigation, and fixed reading-position restore so the app returns to the right section and scroll point after restart.",
+        "How did you decide that your app is ready for production?": "Repeatedly tested both editions: opening the library, searching, changing editions, resizing text, moving between sections, and restoring progress after restarts. Reported navigation and persistence issues were fixed, and the offline reading flow is stable for release."
+      },
+      "steps": [
+        [
+          "How did you recruit users for your closed test?",
+          "Describe the engagement you received from testers during your closed test",
+          "Provide a summary of the feedback that you received from testers. Include how you collected the feedback"
+        ],
+        [
+          "Who is the intended audience of your app?",
+          "Describe how your app provides value to users"
+        ],
+        [
+          "What changes did you make to your app based on what you learned during your closed test?",
+          "How did you decide that your app is ready for production?"
+        ]
+      ],
+      "mcq": [
+        {
+          "question": "How easy was it to recruit testers for your app?",
+          "options": ["Very difficult", "Difficult", "Neither difficult nor easy", "Easy", "Very easy"],
+          "step": 1,
+          "selection": "Easy"
+        },
+        {
+          "question": "How many installs do you expect your app to have in your first year?",
+          "options": ["0 – 10K", "10K – 100K", "100K – 1M", "1M+"],
+          "step": 2,
+          "selection": "0 – 10K"
+        }
+      ]
+    },
+    {
+      "package": "com.mustafa",
+      "appName": "The Power of Al-Mustafa",
+      "track": "closed",
+      "answers": {
+        "How did you recruit users for your closed test?": "Recruited Roman Urdu, Hindi, and English readers through family, friends, and local Islamic-study WhatsApp groups. Invited them to read the 17 sections in their preferred edition, search topics, adjust text size, and report translation or navigation issues.",
+        "Describe the engagement you received from testers during your closed test": "Testers read sections across the three editions, searched for topics, used next/previous navigation, adjusted text size, and reopened the app to confirm their reading place was saved. Feedback arrived through WhatsApp and direct messages.",
+        "Provide a summary of the feedback that you received from testers. Include how you collected the feedback": "Collected feedback through WhatsApp and direct messages. Readers liked the three language editions, clean layout, and resume reading. They asked for clearer edition labels, better search matches, readable headings, and reliable progress after restarting.",
+        "Who is the intended audience of your app?": "Roman Urdu, Hindi, and English readers interested in the writings of Imran Raza Attari, including students, families, and Islamic-study groups who want an accessible, ad-free reading app without an account.",
+        "Describe how your app provides value to users": "Presents The Power of Al-Mustafa in Roman Urdu, Hindi, and English, with 17 searchable sections per edition, adjustable text size, previous/next navigation, and automatic resume. Reading progress is stored locally with no account required.",
+        "What changes did you make to your app based on what you learned during your closed test?": "Improved edition switching and section labels, refined search matching and empty states, fixed heading and superscript rendering, and made reading-position restore more reliable after the app was closed or restarted.",
+        "How did you decide that your app is ready for production?": "Tested all three editions end to end: opening the library, switching editions, searching, changing text size, navigating sections, and resuming after restarts. Reported rendering and progress issues were fixed, and the core reading experience is stable for production."
+      },
+      "steps": [
+        [
+          "How did you recruit users for your closed test?",
+          "Describe the engagement you received from testers during your closed test",
+          "Provide a summary of the feedback that you received from testers. Include how you collected the feedback"
+        ],
+        [
+          "Who is the intended audience of your app?",
+          "Describe how your app provides value to users"
+        ],
+        [
+          "What changes did you make to your app based on what you learned during your closed test?",
+          "How did you decide that your app is ready for production?"
+        ]
+      ],
+      "mcq": [
+        {
+          "question": "How easy was it to recruit testers for your app?",
+          "options": ["Very difficult", "Difficult", "Neither difficult nor easy", "Easy", "Very easy"],
+          "step": 1,
+          "selection": "Easy"
+        },
+        {
+          "question": "How many installs do you expect your app to have in your first year?",
+          "options": ["0 – 10K", "10K – 100K", "100K – 1M", "1M+"],
+          "step": 2,
+          "selection": "0 – 10K"
+        }
+      ]
+    },
+    {
+      "package": "com.tahirqadri",
+      "appName": "Hafiz Tahir Qadri",
+      "track": "closed",
+      "answers": {
+        "How did you recruit users for your closed test?": "Recruited naat listeners from the artist's YouTube audience, friends, family, and WhatsApp groups. Invited them to stream audio and video, search the collection, save favourites, download for offline listening, and try the live radio.",
+        "Describe the engagement you received from testers during your closed test": "Testers streamed naats, browsed channels and filters, used search, added favourites, built a queue, downloaded audio, and listened offline. They also opened the 24/7 live radio and reported playback, download, and navigation issues through WhatsApp.",
+        "Provide a summary of the feedback that you received from testers. Include how you collected the feedback": "Collected feedback through WhatsApp and direct messages. Listeners liked the clean player, offline downloads, favourites, and live radio. They reported buffering, download retries, search relevance, queue behaviour, and mini-player controls that needed polish.",
+        "Who is the intended audience of your app?": "Naat and nasheed listeners who follow Hafiz Tahir Qadri, including mobile users who want easy audio and video playback, offline listening, favourites, and live radio without navigating YouTube playlists.",
+        "Describe how your app provides value to users": "Brings Hafiz Tahir Qadri's naats into one app with audio and video playback, search, channel filters, favourites, playlists, offline downloads, listening history, and 24/7 live naat radio in a focused player.",
+        "What changes did you make to your app based on what you learned during your closed test?": "Improved playback and buffering handling, made download retries clearer, refined search and filter results, fixed queue and mini-player behaviour, and tightened offline-download state so saved audio is shown correctly after reopening the app.",
+        "How did you decide that your app is ready for production?": "Tested streaming, video, search, filters, favourites, queue, downloads, offline playback, live radio, and app restarts across common Android devices. Reported playback and download issues were fixed, and the core listening flows are stable for production."
+      },
+      "steps": [
+        [
+          "How did you recruit users for your closed test?",
+          "Describe the engagement you received from testers during your closed test",
+          "Provide a summary of the feedback that you received from testers. Include how you collected the feedback"
+        ],
+        [
+          "Who is the intended audience of your app?",
+          "Describe how your app provides value to users"
+        ],
+        [
+          "What changes did you make to your app based on what you learned during your closed test?",
+          "How did you decide that your app is ready for production?"
+        ]
+      ],
+      "mcq": [
+        {
+          "question": "How easy was it to recruit testers for your app?",
+          "options": ["Very difficult", "Difficult", "Neither difficult nor easy", "Easy", "Very easy"],
+          "step": 1,
+          "selection": "Easy"
+        },
+        {
+          "question": "How many installs do you expect your app to have in your first year?",
+          "options": ["0 – 10K", "10K – 100K", "100K – 1M", "1M+"],
+          "step": 2,
+          "selection": "0 – 10K"
+        }
+      ]
+    },
+    {
+      "package": "com.dalail",
+      "appName": "Dalailul Khairat",
+      "track": "closed",
+      "answers": {
+        "How did you recruit users for your closed test?": "Recruited daily salawat readers from family, friends, and local Islamic-study WhatsApp groups. Invited them to follow the weekly portion cycle, read Arabic with English translation, search the text, save bookmarks, and mark daily completion.",
+        "Describe the engagement you received from testers during your closed test": "Testers read the daily portion and other parts, switched between Arabic, English, and both views, adjusted text size, searched for passages, saved bookmarks, and marked parts complete. They shared feedback through WhatsApp and direct messages.",
+        "Provide a summary of the feedback that you received from testers. Include how you collected the feedback": "Collected feedback through WhatsApp and direct messages. Readers liked the daily portion, the weekly cycle, side-by-side translation, and local bookmarks. They asked for clearer progress, easier line saving, better search results, and smoother resume.",
+        "Who is the intended audience of your app?": "People who recite Dalailul Khairat daily or weekly, including Urdu- and English-speaking readers, students, and households that want an organised, ad-free guide with Arabic text and English translation.",
+        "Describe how your app provides value to users": "Guides readers through the weekly Dalailul Khairat cycle with a daily portion, eight parts, three opening duas, Arabic and English text, adjustable font size, search, bookmarks, reading progress, and daily completion tracking. All data stays on the device.",
+        "What changes did you make to your app based on what you learned during your closed test?": "Improved the daily-portion and part navigation, made bookmarks easier to save and revisit, refined search matching and result labels, clarified reading progress, and fixed resume and completion state so they persist after restarting.",
+        "How did you decide that your app is ready for production?": "Tested the full weekly cycle, opening duas, Arabic/English views, font controls, search, bookmarks, daily completion, and resume after restarts. Reported navigation, bookmark, and progress issues were fixed, and the offline reading flow is stable for release."
+      },
+      "steps": [
+        [
+          "How did you recruit users for your closed test?",
+          "Describe the engagement you received from testers during your closed test",
+          "Provide a summary of the feedback that you received from testers. Include how you collected the feedback"
+        ],
+        [
+          "Who is the intended audience of your app?",
+          "Describe how your app provides value to users"
+        ],
+        [
+          "What changes did you make to your app based on what you learned during your closed test?",
+          "How did you decide that your app is ready for production?"
+        ]
+      ],
+      "mcq": [
+        {
+          "question": "How easy was it to recruit testers for your app?",
+          "options": ["Very difficult", "Difficult", "Neither difficult nor easy", "Easy", "Very easy"],
+          "step": 1,
+          "selection": "Easy"
+        },
+        {
+          "question": "How many installs do you expect your app to have in your first year?",
+          "options": ["0 – 10K", "10K – 100K", "100K – 1M", "1M+"],
+          "step": 2,
+          "selection": "0 – 10K"
+        }
+      ]
+    }
+  ]
+}
